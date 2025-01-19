@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Nijat Zamanov</h1>
+<h1 style="text-align: center">Nijat Zamanov</h1>
 
 <!--
 **nijatzamanov/nijatzamanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
