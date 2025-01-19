@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<p style="text-align: center">Nijat </p>
-
 <!--
 **nijatzamanov/nijatzamanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
